@@ -1,0 +1,21 @@
+{
+  "name": "Sharil — Senior Software Developer",
+  "short_name": "Sharil.dev",
+  "description": "Senior software developer building custom software, web apps, mobile apps, and AI systems for businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E14",
+  "theme_color": "#0A0E14",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
