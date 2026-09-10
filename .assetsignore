@@ -4,3 +4,6 @@ wrangler.jsonc
 .assetsignore
 node_modules
 .github
+src
+package.json
+package-lock.json

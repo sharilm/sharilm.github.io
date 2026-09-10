@@ -1,0 +1,16 @@
+{
+  "name": "sharilm.github.io",
+  "version": "1.0.0",
+  "description": "sharilm.github.io static site",
+  "scripts": {
+    "build:hero": "esbuild src/hero-graph.js --bundle --minify --format=iife --target=es2018 --outfile=assets/js/hero-graph.min.js"
+  },
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "three": "^0.186.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
