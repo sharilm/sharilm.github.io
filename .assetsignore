@@ -2,3 +2,5 @@
 .claude
 wrangler.jsonc
 .assetsignore
+node_modules
+.github
